@@ -51,6 +51,9 @@ sudo ./setup.sh
 
 **Service Management**: The **persistence.py** script is set up as a systemd service, ensuring it starts on boot and attempts to reconnect every 20 seconds if the connection drops.
 
+[![Watch the video](https://img.youtube.com/vi/rIVaOXZ9xyY/maxresdefault.jpg)](https://www.youtube.com/watch?v=rIVaOXZ9xyY)
+
+
 # Customization
 **Changing IP Address and Port After Initial Setup**
 
